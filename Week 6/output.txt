@@ -1,0 +1,63 @@
+
+-------------Lagrange's Interpolation-------------
+
+Enter the argument of the function: 3
+
+-----------------------------------------------------------
+
+F(3.00) = 1.636473
+
+Analytical Result: 1.635825
+
+Relative Error = 0.039586%
+
+
+-------------Lagrange's Interpolation-------------
+
+Enter the argument of the function: 15
+
+-----------------------------------------------------------
+
+F(15.00) = 6.254719
+
+Analytical Result: 6.254620
+
+Relative Error = 0.001586%
+
+
+-------------Lagrange's Interpolation-------------
+
+Enter the argument of the function: 27
+
+-----------------------------------------------------------
+
+F(27.00) = 7.794282
+
+Analytical Result: 7.794204
+
+Relative Error = 0.001002%
+
+
+-------------Lagrange's Interpolation-------------
+
+Enter the argument of the function: 39
+
+-----------------------------------------------------------
+
+F(39.00) = 6.254705
+
+Analytical Result: 6.254576
+
+Relative Error = 0.002069%
+
+-------------Lagrange's Interpolation-------------
+
+Enter the argument of the function: 51
+
+-----------------------------------------------------------
+
+F(51.00) = 1.636118
+
+Analytical Result: 1.635737
+
+Relative Error = 0.023307%

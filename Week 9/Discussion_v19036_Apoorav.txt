@@ -1,0 +1,11 @@
+Name Apoorav Singh Deo
+Roll No: v19036
+
+Discussion on the accuracy of the Simpson's (1/3) rule over Trapezoidal rule.
+
+It is evident from the data obtained from the code that Integration is gets more precise as we decresase the step size but it 
+also depends upon the method used.
+
+As evident Simpson's (1/3) rule is more precise as well asmore accurate in its calculation because Trapezoidal rule simply breaks the
+curve in linear fashion whereas Simpson's (1/3) rule does the same thing in quadratic manner which provides a better fit for curved 
+figures as in the case of QLHO wave-function. 

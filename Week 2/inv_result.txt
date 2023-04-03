@@ -1,0 +1,19 @@
+-------------------------------------------------------------------
+Absolute error = Litrature Value - Calculated Value
+Relative Error = (|N[i+1]-N[i]|)/N[i+1]*100%
+-------------------------------------------------------------------
+Argument for the function is 4.869000
+
+-------------------------------------------------------------------
+Iteration number: 1 | Relative Error : 0100.00% | Absolute Error: 0.648530 | Computed Value: 1.000000
+Iteration number: 2 | Relative Error : 0033.33% | Absolute Error: 0.148646 | Computed Value: 1.499884
+Iteration number: 3 | Relative Error : 0007.69% | Absolute Error: 0.023704 | Computed Value: 1.624826
+Iteration number: 4 | Relative Error : 0001.27% | Absolute Error: 0.002885 | Computed Value: 1.645645
+Iteration number: 5 | Relative Error : 0000.16% | Absolute Error: 0.000283 | Computed Value: 1.648247
+Iteration number: 6 | Relative Error : 0000.02% | Absolute Error: 0.000023 | Computed Value: 1.648507
+Iteration number: 7 | Relative Error : 0000.00% | Absolute Error: 0.000002 | Computed Value: 1.648528
+-------------------------------------------------------------------
+Actual Value: 1.648530 
+-------------------------------------------------------------------
+Value from series (Number of Atoms left after decay): 3.08e+21
+Values from inbuilt function function (Number of Atoms left after decay): 8.38e+21

@@ -1,0 +1,4 @@
+#Output
+
+Function obtained is y = 1.002326*x + (-4.757674)
+Workfunction for silver from the code is -4.757674 eV and error w.r.t. to literature value is: 0.372878%

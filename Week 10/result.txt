@@ -1,0 +1,3 @@
+Enter the step value: 10
+In 1130.000000 (s) asteroid will cool down to sea temprature (according to Analytic Function)
+In 1130.000000 (s) asteroid will cool down to sea temprature (according to RK-4 Solution)
